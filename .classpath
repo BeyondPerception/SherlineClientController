@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/videoinput-platform.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/videoinput.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/opencv-platform.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/opencv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/libdc1394-platform.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/libdc1394-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/libdc1394-linux-x86.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/javacv.jar" sourcepath="/tmp/.org.sf.feeling.decompiler1573502748227/source/javacv-1.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/ffmpeg-platform.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/ffmpeg-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/ffmpeg-linux-x86.jar"/>
+	<classpathentry kind="lib" path="/home/ronak/Workspace/MillPrograms/~Javadocs/javacv-bin/ffmpeg.jar"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
